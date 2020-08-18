@@ -1,2 +1,2 @@
 # Killing-of-the-Pig-Kingdom
-If you are a luogu user(www.luogu,com)，then you probrably like it.It's about Problem 2482 which is named Killing of the Pig Kingdom.It's a very different question.If you want to cooperate with zycany(uid=270791) on this problem，please tell zycany by luogu's private letter or QQ.
+If you are a [luogu](www.luogu.com.cn) user, then you probrably like it.It's about [Problem 2482](www.luogu.com.cn/problem/P2482) which is named Killing of the Pig Kingdom.As we all know, it is a very difficult question.If you want to cooperate with [zycany](www.luogu.com.cn/user/270791) on this  problem，please tell zycany by [luogu's private letter](www.luogu.com.cn/chat) or QQ(2741842105).
